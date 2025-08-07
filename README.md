@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f6eb73&height=300&section=header"/>
 
-<h1 align="center">Hi, I'm Yoengeun ⌒⌒ ✌🏻</h1>
+<h1 align="center">Hi, I'm Yeongeun ⌒⌒ ✌🏻</h1>
 
 <p align="center">
   <em>
