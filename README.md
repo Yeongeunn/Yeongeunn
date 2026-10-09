@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f6eb73&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f6eb73&height=170&section=header"/>
 
 <h2 align="center">Hi, I'm Yeongeun ⌒⌒ ✌🏻</h2>
 
